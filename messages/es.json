@@ -1,0 +1,51 @@
+{
+  "navigation": {
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "industries": "Industrias",
+    "whyUs": "Por Qué Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Servicios de Limpieza Integrales Adaptados a sus Necesidades",
+    "description": "Descubra nuestra amplia gama de servicios diseñados para mantener los más altos estándares de limpieza en su espacio. Ya sea su hogar, oficina o establecimiento comercial, nos dedicamos a crear un ambiente impecable, saludable y acogedor que podrá disfrutar todos los días.",
+    "contactButton": "Contáctenos"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "companyName": "Solution Saintaire Optimale",
+    "description": "En Solution Saintaire Optimale, nos enorgullecemos de proporcionar servicios de limpieza profesionales y confiables tanto para hogares como para empresas en todo Canadá. Nuestro objetivo es ofrecer resultados excepcionales de limpieza que promuevan la salud, el confort y la tranquilidad. Ya sea una limpieza profunda única o un mantenimiento continuo, nuestro equipo experimentado está equipado para manejar todas sus necesidades de limpieza con precisión y cuidado.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Creemos que un ambiente limpio impacta directamente en la salud, la productividad y el bienestar. Nuestras soluciones integrales de limpieza van más allá de la limpieza superficial para crear espacios más saludables y acogedores."
+    }
+  },
+  "services": {
+    "title": "Servicios",
+    "disinfection": {
+      "title": "Desinfección",
+      "description": "Proporcionamos servicios de desinfección de primer nivel para garantizar ambientes limpios y seguros en diversos entornos, desde oficinas hasta centros de salud."
+    },
+    "cleaning": {
+      "title": "Limpieza",
+      "description": "Soluciones integrales de limpieza para hogares y empresas, adaptadas para satisfacer necesidades específicas de saneamiento y mantenimiento."
+    }
+  },
+  "industries": {
+    "title": "Industrias",
+    "subtitle": "Que Servimos",
+    "commercial": {
+      "title": "Comercial",
+      "description": "Los servicios de limpieza comercial son esenciales para mantener un ambiente profesional, higiénico y acogedor en cualquier entorno empresarial."
+    }
+  },
+  "contact": {
+    "title": "Contáctenos para más información",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "submit": "Contactar"
+    }
+  }
+}

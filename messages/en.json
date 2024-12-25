@@ -1,0 +1,51 @@
+{
+  "navigation": {
+    "about": "About",
+    "services": "Services",
+    "industries": "Industries",
+    "whyUs": "Why Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Comprehensive Cleaning Services Tailored to Your Needs",
+    "description": "Discover our comprehensive range of services crafted to maintain the highest standards of cleanliness for your space. Whether it's your home, office, or commercial establishment, we're dedicated to creating a spotless, healthy, and welcoming environment that you can enjoy every day.",
+    "contactButton": "Contact us"
+  },
+  "about": {
+    "title": "About Us",
+    "companyName": "Solution Saintaire Optimale",
+    "description": "At Solution Saintaire Optimale, we pride ourselves on providing professional and reliable cleaning services for both homes and businesses across Canada. Our goal is to deliver exceptional cleaning results that promote health, comfort, and peace of mind. Whether it's a one-time deep cleaning or ongoing maintenance, our experienced team is equipped to handle all your cleaning needs with precision and care.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe a clean environment directly impacts health, productivity, and well-being. Our comprehensive cleaning solutions go beyond surface cleaning to create healthier, more inviting spaces."
+    }
+  },
+  "services": {
+    "title": "Services",
+    "disinfection": {
+      "title": "Disinfection",
+      "description": "Providing top-tier disinfection services to ensure clean and safe environments in various settings, from offices to healthcare facilities."
+    },
+    "cleaning": {
+      "title": "Cleaning",
+      "description": "Comprehensive cleaning solutions for homes and businesses, tailored to meet specific sanitation and upkeep needs."
+    }
+  },
+  "industries": {
+    "title": "Industries",
+    "subtitle": "We Serve",
+    "commercial": {
+      "title": "Commercial",
+      "description": "Commercial cleaning services are essential for maintaining a professional, hygienic, and welcoming environment in any business setting."
+    }
+  },
+  "contact": {
+    "title": "Contact us for more info",
+    "form": {
+      "name": "Full Name",
+      "email": "Email address",
+      "message": "Message",
+      "submit": "Get in touch"
+    }
+  }
+}
